@@ -1,0 +1,7 @@
+Course ID	Deadline	Test day			Term project
+
+CSC426		May,24		May30,June20,July11,Aug1
+
+CSC462		May,19,21	June19,July31			Aug 7
+
+CSC485D		May,21		
